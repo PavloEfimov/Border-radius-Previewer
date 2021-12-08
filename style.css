@@ -1,0 +1,9 @@
+#box {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(26, 11, 238);
+    border-radius: 0px;
+}
+input {
+    width: 30px;
+}
